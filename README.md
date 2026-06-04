@@ -45,4 +45,11 @@ La solution repose entièrement sur l'écosystème **.NET**, choisi pour sa robu
 <img width="1067" height="883" alt="7" src="https://github.com/user-attachments/assets/52428c1d-fed8-4e75-b818-70553db92da0" />
 <img width="1563" height="630" alt="6" src="https://github.com/user-attachments/assets/82959dbc-116c-4d85-8161-34f2717b2afb" />
 
+<img width="1080" height="2400" alt="Screenshot_20260604_160957_Gallery" src="https://github.com/user-attachments/assets/97aff9d9-ccd1-4a5e-b00e-407e89e72835" />
+<img width="1080" height="2400" alt="Screenshot_20260604_155943_Gallery" src="https://github.com/user-attachments/assets/b4481ad9-19b3-42de-89a4-0920e9b8983c" />
+<img width="1080" height="2400" alt="Screenshot_20260604_155854_Gallery" src="https://github.com/user-attachments/assets/bd15766b-28fd-4d99-a393-dcbd1d92fae5" />
+<img width="1080" height="2400" alt="Screenshot_20260604_155702_Gallery" src="https://github.com/user-attachments/assets/2544b0b1-d387-4539-95f4-4c31b443af93" />
+<img width="1080" height="2400" alt="Screenshot_20260604_155648_Gallery" src="https://github.com/user-attachments/assets/bfe8643b-e800-49ce-9f48-1bf3ad80b55c" />
+<img width="1080" height="2400" alt="Screenshot_20260604_161026_Gallery" src="https://github.com/user-attachments/assets/5e37be8e-b915-490d-957f-d7b619b4dd72" />
+
 
