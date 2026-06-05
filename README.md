@@ -12,13 +12,24 @@ Ce projet est une solution d'entreprise (B2B) sécurisée conçue pour automatis
 ### Interface Mobile (Application Salariés & Approbations DG)
 Voici à quoi ressemble l'application native développée pour le suivi en déplacement :
 
-![Écran de validation des virements - Mobile](LIEN_DE_TON_IMAGE_ICI)
+<img width="300" height="350" alt="Screenshot_20260604_160957_Gallery" src="https://github.com/user-attachments/assets/97aff9d9-ccd1-4a5e-b00e-407e89e72835" />
+<img width="300" height="350" alt="Screenshot_20260604_155943_Gallery" src="https://github.com/user-attachments/assets/b4481ad9-19b3-42de-89a4-0920e9b8983c" />
+<img width="300" height="350" alt="Screenshot_20260604_155854_Gallery" src="https://github.com/user-attachments/assets/bd15766b-28fd-4d99-a393-dcbd1d92fae5" />
+<img width="300" height="350" alt="Screenshot_20260604_155702_Gallery" src="https://github.com/user-attachments/assets/2544b0b1-d387-4539-95f4-4c31b443af93" />
+<img width="300" height="350" alt="Screenshot_20260604_155648_Gallery" src="https://github.com/user-attachments/assets/bfe8643b-e800-49ce-9f48-1bf3ad80b55c" />
+<img width="300" height="350" alt="Screenshot_20260604_161026_Gallery" src="https://github.com/user-attachments/assets/5e37be8e-b915-490d-957f-d7b619b4dd72" />
 *Légende : Écran de validation rapide pour le DG avec options d'approbation/rejet.*
 
 ### Tableau de Bord Web (Administration)
 Le dashboard web permet le suivi complet des régularisations de factures :
+ <img width="823" height="772" alt="2" src="https://github.com/user-attachments/assets/980ce75c-dad4-40ad-8dda-7b8961123675" />
+<img width="1563" height="702" alt="5" src="https://github.com/user-attachments/assets/6e82766e-3115-461b-b522-5dd054af7b29" />
+<img width="1885" height="850" alt="4" src="https://github.com/user-attachments/assets/b0e22e85-4eba-4e04-b1c1-b0a6a4fce256" />
+<img width="1905" height="1021" alt="3" src="https://github.com/user-attachments/assets/a68ecba5-23cb-41e5-934a-893d521468f3" />
+<img width="1067" height="883" alt="7" src="https://github.com/user-attachments/assets/52428c1d-fed8-4e75-b818-70553db92da0" />
+<img width="1563" height="630" alt="6" src="https://github.com/user-attachments/assets/82959dbc-116c-4d85-8161-34f2717b2afb" />
 
-![Tableau de bord - Web](LIEN_DE_TON_IMAGE_ICI)
+
 *Légende : Vue d'ensemble des statistiques financières et des dossiers en attente.*
 
 ---
@@ -38,18 +49,4 @@ La solution repose entièrement sur l'écosystème **.NET**, choisi pour sa robu
 *   **Gestion des statuts :** Traitement instantané (Validation / Rejet avec motif).
 *   **Sécurité :** Chiffrement des données financières et authentification renforcée.
 
-*   <img width="823" height="772" alt="2" src="https://github.com/user-attachments/assets/980ce75c-dad4-40ad-8dda-7b8961123675" />
-<img width="1563" height="702" alt="5" src="https://github.com/user-attachments/assets/6e82766e-3115-461b-b522-5dd054af7b29" />
-<img width="1885" height="850" alt="4" src="https://github.com/user-attachments/assets/b0e22e85-4eba-4e04-b1c1-b0a6a4fce256" />
-<img width="1905" height="1021" alt="3" src="https://github.com/user-attachments/assets/a68ecba5-23cb-41e5-934a-893d521468f3" />
-<img width="1067" height="883" alt="7" src="https://github.com/user-attachments/assets/52428c1d-fed8-4e75-b818-70553db92da0" />
-<img width="1563" height="630" alt="6" src="https://github.com/user-attachments/assets/82959dbc-116c-4d85-8161-34f2717b2afb" />
-
-<img width="1080" height="2400" alt="Screenshot_20260604_160957_Gallery" src="https://github.com/user-attachments/assets/97aff9d9-ccd1-4a5e-b00e-407e89e72835" />
-<img width="1080" height="2400" alt="Screenshot_20260604_155943_Gallery" src="https://github.com/user-attachments/assets/b4481ad9-19b3-42de-89a4-0920e9b8983c" />
-<img width="1080" height="2400" alt="Screenshot_20260604_155854_Gallery" src="https://github.com/user-attachments/assets/bd15766b-28fd-4d99-a393-dcbd1d92fae5" />
-<img width="1080" height="2400" alt="Screenshot_20260604_155702_Gallery" src="https://github.com/user-attachments/assets/2544b0b1-d387-4539-95f4-4c31b443af93" />
-<img width="1080" height="2400" alt="Screenshot_20260604_155648_Gallery" src="https://github.com/user-attachments/assets/bfe8643b-e800-49ce-9f48-1bf3ad80b55c" />
-<img width="1080" height="2400" alt="Screenshot_20260604_161026_Gallery" src="https://github.com/user-attachments/assets/5e37be8e-b915-490d-957f-d7b619b4dd72" />
-
-
+ 
